@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My page
 
-You can use the [editor on GitHub](https://github.com/Abhishekbestha/Bday/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is the page where u will get an greetings for Birthday wishes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Code is written in HTML and CSS.
 
 ### Markdown
 
